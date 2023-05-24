@@ -1,6 +1,6 @@
 // import { useState } from 'react'
 import "./App.css";
-import CardContainer from "./components/CardContainer/CardContainer";
+import CardContainer from "@components/CardContainer/CardContainer";
 import SideBar from "@components/sideBar/SideBar";
 
 function App() {
