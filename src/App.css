@@ -1,25 +1,27 @@
-
-.project{
-  margin-left : 7vw;
-  padding-right: 32px;
-}
-
-.projectTitle{
-  margin-top:50px;
+.projectTitle {
+  margin-top: 50px;
   font-size: 45px;
   font-weight: 500;
 }
 
-.projectDescription{
-  margin-top:10px;
+.projectDescription {
+  margin-top: 10px;
   font-size: 22px;
   font-weight: 500;
-  color:#BFBFBF;
+  color: #bfbfbf;
 }
 
-.projectStatuts{
+.projectStatuts {
   display: flex;
   justify-content: space-around;
-  gap:32px;
+  gap: 32px;
   margin-top: 50px;
+}
+
+.appContainer {
+  height: 100%;
+  overflow: hidden;
+  margin-right: 32px;
+  display: flex;
+  gap: 7vw;
 }

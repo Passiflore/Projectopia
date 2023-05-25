@@ -5,7 +5,7 @@ import SideBar from "@components/sideBar/SideBar";
 
 function App() {
   return (
-    <>
+    <div className="appContainer">
       <SideBar />
       <div className="project">
         <h2 className="projectTitle">Projekopia</h2>
@@ -18,7 +18,7 @@ function App() {
           <CardContainer></CardContainer>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
