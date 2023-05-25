@@ -8,7 +8,7 @@ export default defineConfig({
       "@components": "./components",
       "@": "./src",
     },
-    extensions: [".ts", ".tsx", ".json"],
+    extensions: [".ts", ".tsx", ".json", ".css", "svg"],
   },
   plugins: [react()],
 });
