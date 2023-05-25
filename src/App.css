@@ -20,7 +20,7 @@
 
 .appContainer {
   height: 100%;
-  overflow: hidden;
+
   margin-right: 32px;
   display: flex;
   gap: 7vw;
