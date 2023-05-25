@@ -1,4 +1,5 @@
 .sideBarContainer {
+  position: fixed;
   width: 92px;
   max-width: 92px;
   min-height: 100%;

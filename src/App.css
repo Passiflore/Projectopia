@@ -1,11 +1,12 @@
+.project{
+  width:88%;
+  margin-left: 12vw;
+}
+
 .projectTitle {
   margin-top: 50px;
   font-size: 45px;
   font-weight: 500;
-}
-
-.project {
-  overflow: scroll;
 }
 
 .projectDescription {
@@ -27,5 +28,5 @@
 
   margin-right: 32px;
   display: flex;
-  gap: 7vw;
+  gap: 4vw;
 }
