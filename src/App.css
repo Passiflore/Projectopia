@@ -4,6 +4,10 @@
   font-weight: 500;
 }
 
+.project {
+  overflow: scroll;
+}
+
 .projectDescription {
   margin-top: 10px;
   font-size: 22px;
