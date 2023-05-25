@@ -16,9 +16,6 @@ function App() {
             Projet trop cool qui va beaucoup servir
           </p>
           <div className="projectStatuts">
-            {/* <CardContainer title="À Faire" />
-            <CardContainer title="En Cours" />
-            <CardContainer title="Fini" /> */}
             <CardContainerStore title="ToDo" />
             <CardContainerStore title="InProgress" />
             <CardContainerStore title="Completed" />
