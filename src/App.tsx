@@ -13,9 +13,9 @@ function App() {
           Projet trop cool qui va beaucoup servir
         </p>
         <div className="projectStatuts">
-          <CardContainer></CardContainer>
-          <CardContainer></CardContainer>
-          <CardContainer></CardContainer>
+          <CardContainer title="À Faire" />
+          <CardContainer title="En Cours" />
+          <CardContainer title="Fini" />
         </div>
       </div>
     </div>
