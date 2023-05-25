@@ -2,17 +2,18 @@
     background-color: #F1F1F1;
     border-radius: 10px;
     width:47vw;
-    padding:30px;
+    padding:25px;
 }
 
 .cardContainerTitle{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 45px;
 }
 
 .cardContainerTitle h3{
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 500;
 }
 
@@ -24,4 +25,12 @@
     height: 50px;
     border-radius: 100px;
     background-color: #000000;
+}
+
+.CardProject{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
 }
