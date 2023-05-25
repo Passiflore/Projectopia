@@ -20,12 +20,11 @@ function App() {
             <CardContainer title="En Cours" />
             <CardContainer title="Fini" /> */}
             <CardContainerStore title="ToDo" />
-            <CardContainerStore title="In Progress" />
+            <CardContainerStore title="InProgress" />
             <CardContainerStore title="Completed" />
           </div>
         </div>
       </div>
-
     </Provider>
   );
 }
